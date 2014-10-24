@@ -13,9 +13,13 @@
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
 	"soda_classic_tabs": true,
-	"tab_size": 4,
+	"tab_size": 2,
 	"theme": "Soda Dark 3.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_automatic_white_space": true,
-	"trim_trailing_white_space_on_save": true
+	"trim_trailing_white_space_on_save": true,
+  "highlight_line": true,
+  "highlight_modified_tabs": true,
+  "scroll_past_end": false,
+  "caret_style": "phase"
 }
