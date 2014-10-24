@@ -1,0 +1,29 @@
+{
+	"installed_packages":
+	[
+		"ApacheConf.tmLanguage",
+		"Autoprefixer",
+		"BracketHighlighter",
+		"ColorPicker",
+		"CSS3_Syntax",
+		"CSScomb",
+		"DocBlockr",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"HTML-CSS-JS Prettify",
+		"LineEndings",
+		"Markdown Preview",
+		"ReadmePlease",
+		"Sass",
+		"SideBarEnhancements",
+		"Sublime Text 3 Snippets",
+		"SublimeLinter",
+		"SublimeLinter-contrib-jslint",
+		"SublimeLinter-contrib-scss-lint",
+		"SublimeLinter-csslint",
+		"SublimeLinter-html-tidy",
+		"SublimeLinter-json",
+		"Theme - Soda"
+	]
+}

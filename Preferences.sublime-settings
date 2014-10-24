@@ -1,0 +1,21 @@
+{
+	"auto_complete_commit_on_tab": true,
+	"color_scheme": "Packages/User/Monokai Soda (SL).tmTheme",
+	"detect_indentation": false,
+	"dictionary": "Packages/Language - English/en_GB.dic",
+	"font_face": "Menlo Regular",
+	"font_size": 10,
+	"ignored_packages":
+	[
+		"GitGutter",
+		"Vintage"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"soda_classic_tabs": true,
+	"tab_size": 4,
+	"theme": "Soda Dark 3.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_automatic_white_space": true,
+	"trim_trailing_white_space_on_save": true
+}
