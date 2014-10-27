@@ -15,6 +15,7 @@ Sublime Text 3 Packages/User folder
 - Install Node.js - `http://nodejs.org/`
 - Install Ruby (1.9.3 for Grunt compatibility) - `http://rubyinstaller.org/`
 - Install Python - `https://www.python.org/downloads/`
+- Install Menlo Regular Font - `https://github.com/hbin/top-programming-fonts`
 - Sugest system restart to ensure packages are registered and PATH variable set.
 - Install Sublime Text 3 - `http://www.sublimetext.com/3`
 - - Add Package Control to Sublime Text - `https://sublime.wbond.net/installation`
