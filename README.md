@@ -13,20 +13,20 @@ Sublime Text 3 Packages/User folder
 
 ## Instructions for Windows
 
-- Install Node.js - `http://nodejs.org/`
-- Install Ruby (1.9.3 for Grunt compatibility) - `http://rubyinstaller.org/`
-- Install Python - `https://www.python.org/downloads/`
-- - Install Git - `http://git-scm.com/download/win`
-- Install GitHub for Windows - `https://windows.github.com/`
-- Install Menlo Regular Font - `https://github.com/hbin/top-programming-fonts`
+- Install Node.js - http://nodejs.org/
+- Install Ruby (1.9.3 for Grunt compatibility) - http://rubyinstaller.org/
+- Install Python - https://www.python.org/downloads/
+- - Install Git - http://git-scm.com/download/win
+- Install GitHub for Windows - https://windows.github.com/
+- Install Menlo Regular Font - https://github.com/hbin/top-programming-fonts
 - Sugest system restart to ensure packages are registered and PATH variable set.
-- Install Sublime Text 3 - `http://www.sublimetext.com/3`
-- - Add Package Control to Sublime Text - `https://sublime.wbond.net/installation`
+- Install Sublime Text 3 - http://www.sublimetext.com/3
+- - Add Package Control to Sublime Text - https://sublime.wbond.net/installation
 - Shutdown Sublime Text
 
 ## Individual plugin dependancies
 
-- HTML Tidy - `http://tidybatchfiles.info/`
+- HTML Tidy - http://tidybatchfiles.info/
   Download and extract the zipfile to anywhere you like and ensure the PATH is set in environment variables.
 - CSS Lint - You must install CSS Lint on your system first - `npm install -g csslint`
 - SCSS Lint - `gem install scss-lint`
