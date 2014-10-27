@@ -6,20 +6,21 @@ Sublime Text 3 Packages/User folder
 ## Dependancies
 
 - Sublime Text 3 
-- GitHub for Windows
+- Git/GitHub for Windows
 - Node (npm)
 - Ruby
 
 ## Instructions for Windows
 
-- Install Node.js - http://nodejs.org/
-- Install Ruby (1.9.3 for Grunt compatibility) - http://rubyinstaller.org/
-- Install Python - https://www.python.org/downloads/
+- Install Node.js - `http://nodejs.org/`
+- Install Ruby (1.9.3 for Grunt compatibility) - `http://rubyinstaller.org/`
+- Install Python - `https://www.python.org/downloads/`
 - Sugest system restart to ensure packages are registered and PATH variable set.
-- Install Sublime Text 3 - http://www.sublimetext.com/3
-- - Add Package Control to Sublime Text - https://sublime.wbond.net/installation
+- Install Sublime Text 3 - `http://www.sublimetext.com/3`
+- - Add Package Control to Sublime Text - `https://sublime.wbond.net/installation`
 - Shutdown Sublime Text
-- Install GitHub for Windows - https://windows.github.com/
+- Install Git - `http://git-scm.com/download/win`
+- Install GitHub for Windows - `https://windows.github.com/`
 - Clone this repo to:
  
 ` C:\Users\UserName\AppData\Roaming\Sublime Text 3\Packages `
