@@ -11,6 +11,7 @@ Sublime Text 3 Packages/User folder
 - Git
 - GitHub for Windows
 - Grunt
+- WAMP
 
 ## Instructions for Windows
 
@@ -26,6 +27,7 @@ Sublime Text 3 Packages/User folder
 - Shutdown Sublime Text
  
 - Grunt - `npm install grunt`
+- WAMP - http://www.wampserver.com/en/
 
 ## Individual plugin dependancies
 
@@ -35,8 +37,6 @@ Sublime Text 3 Packages/User folder
 - CSS Lint - You must install CSS Lint on your system first - `npm install -g csslint`
 - SCSS Lint - `gem install scss-lint`
 - JS Lint - `npm install -g jslint`
-- CSS3 - Disable default CSS package - possible conflicts with Emmet
-- Emmet plugin requires PyV8 which may fail to download to the Packages folder using this method. Using Package Control, remove and re-add Emmet manually.
 
 ### Once all the above is set up:
 
@@ -47,3 +47,9 @@ Sublime Text 3 Packages/User folder
 - This will overwrite the existing User folder.
 
 - Start Sublime Text - Package control should begin to downloading and installing the 'missing' packages. BE PATIENT - on an old laptop this took 15 mins plus during which time Sublime and laptop were unresponsive.
+
+## Post Install Checks
+
+- CSS3 - Disable default CSS package - possible conflicts with Emmet
+- Emmet plugin requires PyV8 which may fail to download to the Packages folder using this method. Using Package Control, remove and re-add Emmet manually.
+
