@@ -32,6 +32,9 @@ This will overwrite the existing User folder.
 - HTML Tidy - http://tidybatchfiles.info/
   Download and extract the zipfile to anywhere you like and ensure the PATH is set in environment variables.
 - CSS Lint - You must install CSS Lint on your system first - `npm install -g csslint`
-- SCSS Lint - gem install scss-lint
+- SCSS Lint - `gem install scss-lint`
+- JS Lint - `npm install -g jslint`
+- CSS3 - Disable default CSS package - possible conflicts with Emmet
+- 
 - Emmet plugin requires PyV8 which may fail to download to the Packages folder using this method. Using Package Control, remove and re-add Emmet manually. Download of PyV8 zip file may take some time.
 
