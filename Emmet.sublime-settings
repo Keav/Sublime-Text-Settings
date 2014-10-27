@@ -1,0 +1,10 @@
+// {
+//   "snippets": {
+//     "html": {
+//       "abbreviations": {
+//         "!": "html:5",
+//           "html:5": "<!doctype html>\n<html lang=\"${lang}\">\n<head>\n\t<meta charset=\"${charset}\">\n\t<title>${1:Document}</title>\n</head>\n<body>\n\t${child}${2}\n</body>\n</html>"
+//       }
+//     }
+//   }
+// }
