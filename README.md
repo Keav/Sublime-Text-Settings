@@ -1,9 +1,8 @@
-Sublime Text 3 User Settings
+Initialise Brand New Web Development Environment
 ============
+### Includes Sublime Text 3 `/Packages/User/` Folder containing all installed Sublime Text packages and settings.
 
-Sublime Text 3 Packages/User folder
-
-## Global Project Dependancies
+## Global Project Dependencies
 
 - Node.js
 - Ruby
