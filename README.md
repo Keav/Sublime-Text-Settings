@@ -24,9 +24,8 @@ Includes Sublime Text 3 `/Packages/User/` Folder containing all installed Sublim
 - Install Sublime Text 3 - http://www.sublimetext.com/3
 - Add Package Control to Sublime Text - https://sublime.wbond.net/installation
 - Shutdown Sublime Text
-
 - Grunt - `npm install grunt`
-- Grunt-CLI - `npm install -g grunt-cli`
+- Grunt CLI - `npm install -g grunt-cli`
 - WAMP - http://www.wampserver.com/en/
 
 ## Individual plugin dependancies
