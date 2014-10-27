@@ -1,4 +1,4 @@
-Initialise Brand New Web Development Environment
+Initialise New Web Development Environment
 ============
 Includes Sublime Text 3 `/Packages/User/` Folder containing all installed Sublime Text packages and settings.
 
