@@ -31,9 +31,8 @@ Includes Sublime Text 3 `/Packages/User/` Folder containing all installed Sublim
 ## Individual plugin dependancies
 
 - HTML Tidy - http://tidybatchfiles.info/
-
   Download and extract the zipfile to anywhere you like and ensure the PATH is set in environment variables.
-- CSS Lint - You must install CSS Lint on your system first - `npm install -g csslint`
+- CSS Lint - `npm install -g csslint`
 - SCSS Lint - `gem install scss-lint`
 - JS Lint - `npm install -g jslint`
 
