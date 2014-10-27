@@ -27,4 +27,11 @@ Sublime Text 3 Packages/User folder
 This will overwrite the existing User folder.
 - Start Sublime Text - Package control should begin to downloading and installing the 'missing' packages. BE PATIENT - on an old laptop this took 15 mins plus during which time Sublime and laptop were unresponsive.
 
+## Plugins Included and Individual plugin dependancies
+
+- HTML Tidy - http://tidybatchfiles.info/
+  Download and extract the zipfile to anywhere you like and ensure the PATH is set in environment variables.
+- CSS Lint - You must install CSS Lint on your system first - `npm install -g csslint`
+- SCSS Lint - gem install scss-lint
+- Emmet plugin requires PyV8 which may fail to download to the Packages folder using this method. Using Package Control, remove and re-add Emmet manually. Download of PyV8 zip file may take some time.
 
