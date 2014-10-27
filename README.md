@@ -10,14 +10,15 @@ Sublime Text 3 Packages/User folder
 - Node (npm)
 - Ruby
 
-## Instructions
+## Instructions for Windows
 
 - Install Node.js - http://nodejs.org/
 - Install Ruby (1.9.3 for Grunt compatibility) - http://rubyinstaller.org/
 - Install Sublime Text 3 - http://www.sublimetext.com/3
 - Install GitHub for Windows - https://windows.github.com/
 
-- Goto GitHub and Clone this repo to:
-` C:\Users\Chris\AppData\Roaming\Sublime Text 3\Packages `
+- Clone this repo to:
+ 
+` C:\Users\UserName\AppData\Roaming\Sublime Text 3\Packages `
 
 This will overwrite the existing User folder.
