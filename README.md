@@ -24,6 +24,6 @@ Sublime Text 3 Packages/User folder
 ` C:\Users\UserName\AppData\Roaming\Sublime Text 3\Packages `
 
 This will overwrite the existing User folder.
-- Start Sublime Text - Package control should begin to download and install 'missing' packages. BE PATIENT - on an old laptop this took 15 mins plus during which time Sublime and laptop were unresponsive.
+- Start Sublime Text - Package control should begin to downloading and installing the 'missing' packages. BE PATIENT - on an old laptop this took 15 mins plus during which time Sublime and laptop were unresponsive.
 
 
