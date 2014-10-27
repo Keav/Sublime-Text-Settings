@@ -3,13 +3,14 @@ Sublime Text 3 User Settings
 
 Sublime Text 3 Packages/User folder
 
-## Dependancies
+## Global Project Dependancies
 
 - Node.js
 - Ruby
 - Python
 - Git
 - GitHub for Windows
+- Grunt
 
 ## Instructions for Windows
 
@@ -23,6 +24,8 @@ Sublime Text 3 Packages/User folder
 - Install Sublime Text 3 - http://www.sublimetext.com/3
 - Add Package Control to Sublime Text - https://sublime.wbond.net/installation
 - Shutdown Sublime Text
+ 
+- Grunt - `npm install grunt`
 
 ## Individual plugin dependancies
 
