@@ -1,6 +1,6 @@
 Initialise Brand New Web Development Environment
 ============
-### Includes Sublime Text 3 `/Packages/User/` Folder containing all installed Sublime Text packages and settings.
+Includes Sublime Text 3 `/Packages/User/` Folder containing all installed Sublime Text packages and settings.
 
 ## Global Project Dependencies
 
@@ -26,6 +26,7 @@ Initialise Brand New Web Development Environment
 - Shutdown Sublime Text
  
 - Grunt - `npm install grunt`
+- Grunt-CLI - `npm install -g grunt-cli`
 - WAMP - http://www.wampserver.com/en/
 
 ## Individual plugin dependancies
