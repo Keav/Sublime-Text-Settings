@@ -16,7 +16,7 @@
 	],
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
-	"scroll_past_end": false,
+	"scroll_past_end": true,
 	"soda_classic_tabs": true,
 	"tab_size": 2,
 	"theme": "Soda Dark 3.sublime-theme",
