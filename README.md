@@ -32,6 +32,7 @@ This is a repo of the Sublime Text 3 `/Packages/User/` folder; containing all in
 
 - HTML Tidy - http://tidybatchfiles.info/
   Download and extract the zipfile to anywhere you like and ensure the PATH is set in environment variables.
+  Update: This is now part of my 'scripts' repo.
 - CSS Lint - `npm install -g csslint`
 - SCSS Lint - `gem install scss-lint`
 - JS Lint - `npm install -g jslint`
