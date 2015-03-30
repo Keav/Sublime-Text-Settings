@@ -1,4 +1,7 @@
 {
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
 		"ApacheConf.tmLanguage",
@@ -14,6 +17,7 @@
 		"HTML-CSS-JS Prettify",
 		"LineEndings",
 		"Markdown Preview",
+		"Package Control",
 		"ReadmePlease",
 		"Sass",
 		"SideBarEnhancements",

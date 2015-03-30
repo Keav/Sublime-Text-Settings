@@ -1,5 +1,9 @@
 {
 	"auto_complete_commit_on_tab": true,
+	"binary_file_patterns":
+	[
+		"node_modules/*"
+	],
 	"caret_style": "phase",
 	"color_scheme": "Packages/User/Monokai Soda (SL).tmTheme",
 	"detect_indentation": false,
