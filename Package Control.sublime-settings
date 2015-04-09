@@ -28,6 +28,7 @@
 		"SublimeLinter-csslint",
 		"SublimeLinter-html-tidy",
 		"SublimeLinter-json",
+		"SublimeLinter-phplint",
 		"Theme - Soda"
 	]
 }

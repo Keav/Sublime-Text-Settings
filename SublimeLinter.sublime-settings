@@ -31,6 +31,11 @@
                 "excludes": [],
                 "strict": true
             },
+            "phplint": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
+            },
             "scss": {
                 "@disable": false,
                 "args": [],
@@ -41,6 +46,7 @@
         },
         "mark_style": "squiggly underline",
         "no_column_highlights_line": false,
+        "passive_warnings": false,
         "paths": {
             "linux": [],
             "osx": [],
