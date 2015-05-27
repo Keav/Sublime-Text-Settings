@@ -37,13 +37,20 @@ This is a repo of the Sublime Text 3 `C:\Users\UserName\AppData\Roaming\Sublime 
 - SCSS Lint - `gem install scss-lint`
 - JS Lint - `npm install -g jslint`
 
-### Once all the above is set up:
-
-- Clone this repo to:
+### Clone this repo
  
-` C:\Users\UserName\AppData\Roaming\Sublime Text 3\Packages`
+ Do not use GitHub for Windows or the 'Clone to Desktop' option. This will always create a folder of the same name as your repo, which is not what we want. Instead, we want all the repo files to go into the `packages/User` folder, regardless of Repo name.
+ 
+ - So, in your git shell, navigate to:
+ 
+` C:\Users\UserName\AppData\Roaming\Sublime Text 3\Packages\User`
 
-- This will overwrite the existing User folder.
+- Ensure the folder is empty and enter the following:
+  `git clone https://github.com/User/YourRepo.git .`
+
+- The '.' means the repo's contents will be cloned into the current location.
+
+- If you want this repo in GitHub for Windows, now add this local repo in the usual way, within GitHub for Windows.
 
 - Start Sublime Text - Package control should begin to downloading and installing the 'missing' packages. BE PATIENT - on an old laptop this took 15 mins plus during which time Sublime and laptop were unresponsive.
 
