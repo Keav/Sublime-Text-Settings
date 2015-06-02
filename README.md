@@ -43,10 +43,11 @@ This is a repo of the Sublime Text 3 `C:\Users\UserName\AppData\Roaming\Sublime 
  
  - So, in your git shell, navigate to:
  
-` C:\Users\UserName\AppData\Roaming\Sublime Text 3\Packages\User`
+`C:\Users\UserName\AppData\Roaming\Sublime Text 3\Packages\User`
 
 - Ensure the folder is empty and enter the following:
-  `git clone https://github.com/User/YourRepo.git .`
+
+`git clone https://github.com/User/YourRepo.git .`
 
 - The '.' means the repo's contents will be cloned into the current location.
 
