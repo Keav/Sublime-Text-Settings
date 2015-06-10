@@ -59,7 +59,8 @@ cd ~/appdata/roaming/sublime\ text\ 3/packages/user
 ```
 
 - Ensure the folder is empty and enter the following:
-##Make sure you include the final `.`. in the following command##
+
+**Make sure you include the final `.` in the following command**
 ```
 git clone https://github.com/User/YourRepo.git .
 ```
