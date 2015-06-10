@@ -77,3 +77,8 @@ git clone https://github.com/User/YourRepo.git .
 - CSS3 - Disable default CSS package - possible conflicts with Emmet
 - Emmet plugin requires PyV8 which may fail to download to the Packages folder using this method. Using Package Control, remove and re-add Emmet manually.
 - WAMP requires MSVC110.dll which is unlikely to be present on a fresh Windows build. Download from http://www.microsoft.com/en-us/download/details.aspx?id=30679
+
+## Next
+
+Go ahead and take a look at my instructions for configuring a developer friendly localhost server environment:
+- https://github.com/Keav/localhost-config
