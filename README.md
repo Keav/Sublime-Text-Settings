@@ -42,6 +42,7 @@ This is a repo of the Sublime Text 3 `C:\Users\UserName\AppData\Roaming\Sublime 
 - CSS Lint - `npm install -g csslint`
 - SCSS Lint - `gem install scss-lint`
 - JS Lint - `npm install -g jslint`
+- PHP Lint - `npm install -g phplint`
 
 ### Clone this repo
  
@@ -69,7 +70,7 @@ git clone https://github.com/User/YourRepo.git .
 
 - If you want this repo in GitHub for Windows, now add this local repo in the usual way, within GitHub for Windows.
 
-- Start Sublime Text - Package control should begin to downloading and installing the 'missing' packages. BE PATIENT - on an old laptop this took 15 mins plus during which time Sublime and laptop were unresponsive.
+- Start Sublime Text - Package control should begin to downloading and installing the 'missing' packages.
 
 ## Post Install Checks
 
