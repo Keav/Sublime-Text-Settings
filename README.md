@@ -2,7 +2,7 @@ Initialise Windows Web Development Environment
 ============
 This is a repo of the Sublime Text 3 `C:\Users\UserName\AppData\Roaming\Sublime Text 3\Packages\User` folder; containing all installed Sublime Text packages and settings.
 
-####The following instructions are not all required simply to get Sublime Text up and running but also include a number of other tools that I use within most of my web projects.
+######The following instructions are not all required simply to get Sublime Text up and running but also include a number of other tools that I use within most of my web projects.
 
 ## Global Project Dependencies
 
