@@ -73,7 +73,7 @@ Ensure the folder is empty and enter the following:
 git clone https://github.com/User/YourRepo.git .
 ```
 
-The '.' means the repo's contents will be cloned into the current location.
+The `.` means the repo's contents will be cloned into the current location.
 
 If you want this repo in GitHub for Windows, now add this local repo in the usual way, within GitHub for Windows.
 
@@ -83,15 +83,16 @@ Start Sublime Text - Package control should begin to downloading and installing 
 
 - CSS3 - Disable default CSS package - possible conflicts with Emmet
 - Emmet plugin requires PyV8 which may fail to download to the Packages folder using this method. Using Package Control, remove and re-add Emmet manually.
-- WAMP requires MSVC110.dll which is unlikely to be present on a fresh Windows build. Download from http://www.microsoft.com/en-us/download/details.aspx?id=30679
+- WAMP requires MSVC110.dll which may not be present on a fresh Windows build. Download from http://www.microsoft.com/en-us/download/details.aspx?id=30679
 
 ##Useful Files and Paths
 
 * Session.sublime_session
-Usually you don't want to edit this file but scroll to the bottom and you will find your project quick switch list. Occasionally you may need to remove a project from this list or change its location.
 ```
 ~/Library/Application Support/Sublime Text 3/Local/Session.sublime_session
 ```
+Usually you don't want to edit this file but scroll to the bottom and you will find your project quick switch list. Occasionally you may need to remove a project from this list or change its location.
+
 * User Preferences
 ```
 /Users/chriskeavey/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings
