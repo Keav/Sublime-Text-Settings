@@ -20,7 +20,9 @@ This is a repo of the Sublime Text 3 `C:\Users\UserName\AppData\Roaming\Sublime 
 - Install Ruby (1.9.3 for Grunt compatibility) - http://rubyinstaller.org/
 - Install Python - https://www.python.org/downloads/
 - Install Git - http://git-scm.com/download/win
-- Install GitHub GUI for Windows or OS X - https://windows.github.com/
+- Install GitHub GUI for Windows or OS X
+  - https://windows.github.com/
+  - https://mac.github.com/
 - Install Menlo Regular Font - https://github.com/hbin/top-programming-fonts
 - Sugest system restart to ensure packages are registered and PATH variable set.
 - Install Sublime Text 3 - http://www.sublimetext.com/3
