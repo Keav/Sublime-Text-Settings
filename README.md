@@ -1,6 +1,15 @@
 Initialise a Web Development Environment
 ============
-This is a repo of the Sublime Text 3 `C:\Users\UserName\AppData\Roaming\Sublime Text 3\Packages\User` folder; containing all installed Sublime Text packages and settings, including custom Sublime Text User Preferences.
+This is a repo of the Sublime Text 3 `Packages\User` folder; containing all installed Sublime Text packages and settings, including custom Sublime Text User Preferences.
+
+**Windows**
+```
+C:\Users\UserName\AppData\Roaming\Sublime Text 3\Packages\User
+```
+**OS X**
+```
+~/Library/Application Support/Sublime Text 3/Packages/User
+```
 
 ######The following instructions are not all required simply to get Sublime Text up and running but also include a number of other tools that I use within most of my web projects.
 
@@ -30,10 +39,10 @@ This is a repo of the Sublime Text 3 `C:\Users\UserName\AppData\Roaming\Sublime 
 - Shutdown Sublime Text
 - Grunt CLI - `npm install -g grunt-cli`
 - Local installs of Grunt itself are handled by having a packages.json file in your project and running `npm install`
-- WAMP - http://www.wampserver.com/
-- MAMP - https://www.mamp.info/
+* WAMP - http://www.wampserver.com/
+* MAMP - https://www.mamp.info/
 
-- Also see my localhost configuration instructions here: https://github.com/Keav/localhost-config
+Also see my localhost configuration instructions here: https://github.com/Keav/localhost-config
 
 ## Individual Sublime Text plugin dependancies
 
