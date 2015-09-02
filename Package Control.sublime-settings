@@ -28,7 +28,9 @@
 		"SublimeLinter-csslint",
 		"SublimeLinter-html-tidy",
 		"SublimeLinter-json",
-		"SublimeLinter-phplint",
-		"Theme - Soda"
+		"SublimeLinter-php",
+		"Theme - Soda",
+		"VBScript",
+		"Visual Studio Bold Color Scheme"
 	]
 }
