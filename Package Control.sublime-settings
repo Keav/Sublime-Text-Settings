@@ -18,6 +18,10 @@
 		"LineEndings",
 		"Markdown Preview",
 		"Package Control",
+		"PHP Completions Kit",
+		"Phpcs",
+		"PHPIntel",
+		"Python 3",
 		"ReadmePlease",
 		"Sass",
 		"SideBarEnhancements",
@@ -29,8 +33,6 @@
 		"SublimeLinter-html-tidy",
 		"SublimeLinter-json",
 		"SublimeLinter-php",
-		"Theme - Soda",
-		"VBScript",
-		"Visual Studio Bold Color Scheme"
+		"Theme - Soda"
 	]
 }
