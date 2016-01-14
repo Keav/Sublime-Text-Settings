@@ -99,14 +99,28 @@ Start Sublime Text - Package control should begin to downloading and installing 
 ##Useful Files and Paths
 
 * Session.sublime_session
+
+Windows
+```
+~\AppData\Roaming\Sublime Text 3\Local\Session.sublime_session
+```
+
+OS X
 ```
 ~/Library/Application Support/Sublime Text 3/Local/Session.sublime_session
 ```
 Usually you don't want to edit this file but scroll to the bottom and you will find your project quick switch list. Occasionally you may need to remove a project from this list or change its location.
 
 * User Preferences
+ 
+Windows
 ```
-/Users/chriskeavey/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings
+~\AppData\Roaming\Sublime Text 3\Packages\User\Preferences.sublime-settings
+```
+
+OS X
+```
+~/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings
 ```
 
 ## Next
