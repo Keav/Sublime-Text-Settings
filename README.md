@@ -122,7 +122,17 @@ OS X
 ```
 ~/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings
 ```
+## General
 
+* Preferences > Key Bindings - User
+
+Add the following:
+```
+[
+	{ "keys": ["alt+shift+p"], "command": "autoprefixer" },
+  { "keys": ["ctrl+alt+p"], "command": "prompt_select_workspace" }
+]
+```
 ## Next
 
 Go ahead and take a look at my instructions for configuring a developer friendly localhost server environment:
