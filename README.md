@@ -124,7 +124,7 @@ OS X
 ```
 ## General
 
-* Preferences > Key Bindings - User
+Preferences > Key Bindings - User
 
 Add the following:
 ```
@@ -133,6 +133,43 @@ Add the following:
   { "keys": ["ctrl+alt+p"], "command": "prompt_select_workspace" }
 ]
 ```
+
+Prefences > Settings - User
+
+My default user settings:
+```
+{
+	"auto_complete_commit_on_tab": true,
+	"binary_file_patterns":
+	[
+		"node_modules/*"
+	],
+	"caret_style": "phase",
+	"color_scheme": "Packages/User/SublimeLinter/SpaceCadet (SL).tmTheme",
+	"detect_indentation": false,
+	"dictionary": "Packages/Language - English/en_GB.dic",
+	"font_face": "Menlo Regular",
+	"font_size": 10,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"GitGutter",
+		"Vintage"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"scroll_past_end": true,
+	"soda_classic_tabs": true,
+	"tab_size": 2,
+	"theme": "Soda Dark 3.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_automatic_white_space": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": true
+}
+```
+
 ## Next
 
 Go ahead and take a look at my instructions for configuring a developer friendly localhost server environment:
