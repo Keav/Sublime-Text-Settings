@@ -26,6 +26,7 @@ C:\Users\UserName\AppData\Roaming\Sublime Text 3\Packages\User
 ## Install These
 
 - Install Node.js - http://nodejs.org/ - Install to C: root, not in Program Files. Also ensure that all components are set to run from the hard drive.
+- Install Yarn `npm install -g yarn`
 - Install Ruby (1.9.3 for Grunt compatibility) - http://rubyinstaller.org/
 - Install Python - https://www.python.org/downloads/
 - Install Git - http://git-scm.com/download/win
