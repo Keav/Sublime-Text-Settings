@@ -52,6 +52,7 @@ Also see my localhost configuration instructions here: https://github.com/Keav/l
   Update: This is now part of my 'scripts' repo.
 - CSS Lint - `npm install -g csslint`
 - SCSS Lint - `gem install scss-lint`
+You may need to install the Ruby DevKit, also from http://rubyinstaller.ork/. Make sure you get the DevKit to match the version of Ruby that you installed. Then follow the instructions at http://github.com/oneclick/rubyinstaller/wiki/Development-Kit
 - JS Lint - `npm install -g jslint`
 - PHP Lint - `npm install -g phplint`
 
